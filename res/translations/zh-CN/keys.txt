@@ -73,7 +73,7 @@ item.flint_hammer 锤子
 item.flint_hammer.desc 可改变方块形状。
 item.bagel 贝果
 item.everything_bagel 万象贝果
-item.everything_bagel.desc 一个，也是一切。
+item.everything_bagel.desc 一果在手，世界我有。
 item.blueberry 蓝莓
 item.birch_log 白桦木原木
 item.maple_log 枫木原木
@@ -156,26 +156,26 @@ item.thorn_blade 荆棘之刃
 item.regen_charm 再生石
 item.regen_charm.desc 每4秒恢复1点生命值。
 item.jet_boots 喷气靴
-item.jet_boots.desc 在空中跳跃时可激活，拥有1秒的持续时长。
+item.jet_boots.desc 在空中跳跃时可激活，拥有 1 秒的持续时长。
 item.spring_boots 弹簧靴
-item.spring_boots.desc 将跳跃高度提升至2米。
+item.spring_boots.desc 将跳跃高度提升至 2 米。
 item.paraglider 滑翔伞
 item.paraglider.desc 从高处缓降。
 item.jumping_bean 跳跃豆
-item.jumping_bean.desc 能提升20%的近战伤害，但代价是...
-item.sneakers 运动鞋
+item.jumping_bean.desc 能提升20%的近战伤害，但代价是...?
+item.sneakers 潜行靴
 item.sneakers.desc 使你能够潜行。
 item.gecko_gloves 壁虎手套
 item.gecko_gloves.desc 戴上这双手套即可攀爬墙面。
 item.speed_boots 疾跑靴
-item.speed_boots.desc 穿上它便能获得奔跑的能量。
+item.speed_boots.desc 穿上它便能奔跑。
 item.oak_log 橡木原木
 item.pine_log 松木原木
 item.pine_sapling 松树树苗
 item.birch_planks 桦木木板
 item.maple_planks 枫木木板
 item.pine_planks 松木木板
-item.framed_glass 框格玻璃
+item.framed_glass 带框玻璃
 item.red_brick 红砖
 item.lamp_cyan 青灯
 item.lamp_magenta 品红灯
@@ -338,7 +338,7 @@ item.cobalt_sword 钴蓝剑
 item.arctic_blade 寒冰之刃
 item.big_sword 巨剑
 item.baguette 法棍面包
-item.frosted_boomerang 霜冻回旋镖
+item.frosted_boomerang 寒霜回旋镖
 item.cobalt_spear 钴蓝长矛
 item.cobalt_axe 钴蓝斧
 item.cobalt_helmet 钴蓝头盔
@@ -413,7 +413,7 @@ item.structure_noreplace 结构不替换
 item.fluid.empty 空流体
 item.fluid.water 水
 item.fluid.lava 熔岩
-item.raygun_death 秒杀射线枪
+item.raygun_death 高爆射枪
 item.ice_torch 冰霜火把
 item.arcade_carpet 街机地毯
 item.painting_snowman 画作（雪人）
