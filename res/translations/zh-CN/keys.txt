@@ -16,7 +16,7 @@ item.lamp_white 白灯
 item.lamp_blue 蓝灯
 item.lava 熔岩（旧版）
 item.log 原木
-item.leaves 原子
+item.leaves 树叶
 item.grass_tall 高草
 item.workbench 工作台
 item.workbench.desc 可制作更多复杂的物品
