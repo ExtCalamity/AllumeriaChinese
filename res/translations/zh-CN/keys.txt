@@ -265,7 +265,7 @@ item.arrow_root_seed 根矢草种子
 item.bomb_berry_seed 爆爆莓种子
 item.rock_melon_seed 岩瓜种子
 item.watermelon_seed 西瓜种子
-item.frying_pan 煎锅
+item.frying_pan 平底锅
 item.boomerang 回旋镖
 item.throwable_glow_bean 荧光豆
 item.watering_can 洒水壶
@@ -498,7 +498,7 @@ item.packed_dirt 压实土块
 item.seaweed 海草
 item.lilypad 睡莲
 item.elevator 电梯
-item.elevator.desc 跳跃或潜行以上下移动
+item.elevator.desc 跳跃或潜行以上下传送
 
 item.logic_wire 逻辑导线
 item.logic_gate 逻辑门
