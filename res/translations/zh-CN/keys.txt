@@ -84,7 +84,7 @@ item.door 门
 item.copper_helmet 铜头盔
 item.iron_helmet 铁头盔
 item.silver_helmet 银头盔
-item.gold_helmet 金偷窥
+item.gold_helmet 金头盔
 
 item.copper_chestplate 铜胸甲
 item.iron_chestplate 铁胸甲
