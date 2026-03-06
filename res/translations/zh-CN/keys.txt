@@ -532,6 +532,12 @@ item.boimp_potion Boimp药水
 item.hanging_vines 垂藤
 item.hanging_flowers 垂花
 item.myosotis 勿忘我
+item.wallpaper_wood 木板壁纸
+item.wallpaper_stone 石砖壁纸
+item.pebbles 圆石
+item.grassy_stone 长草的石头
+item.wallpaperable_wood 壁纸基材（木头）
+item.wallpaperable_stone 壁纸基材（石头）
 
 item_tag.can_place 可放置
 item_tag.can_consume 可消耗
@@ -601,6 +607,10 @@ settings.reset_shape_on_swap 切换时重置形状
 settings.world_settings 世界权限
 settings.player_settings 玩家权限
 settings.button_reset_keybinds 重置按键绑定
+settings.audio_header 视频
+settings.misc_header 杂项
+settings.assets_info 资源包
+settings.button_open_assets 打开资源包文件夹
 
 settings_category.camera 视角
 settings_category.video 显示
@@ -610,6 +620,7 @@ settings_category.misc 杂项
 settings_category.keybinds 按键绑定
 settings_category.cheats 作弊
 settings_category.language 语言
+settings_category.assets 资源包
 
 permission.allow_noclip 允许穿墙
 permission.allow_infinite_item 允许无限物品
