@@ -1,1 +1,7 @@
-{"name":"Chinese (Simplified)","gameVersion":"Alpha 0.12.4","description":"\u6765\u81EA\u793E\u533A\u7684 Allumeria \u4E2D\u6587\u652F\u6301 (Pls use my fontfix mod if you can\u0027t see any CJK characters)","credit":"CalaMity","code":"zh-CN"}
+{
+  "name": "Chinese (Simplified)",
+  "gameVersion": "0.14.3",
+  "description": "来自Allumeria社区的中文语言包\n (Pls use my fontfix mod if you can\u0027t see any CJK characters)",
+  "credit": "CalaMity",
+  "code": "zh-CN"
+}
