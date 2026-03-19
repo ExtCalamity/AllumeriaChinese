@@ -2,15 +2,19 @@
 
 ## 鉴于中文互联网来自黑龙江某位电脑高手对我做出的批判性人身攻击评价。（如下）
 
-![Screenshot1](images/0.png)
+<div align="center">
+  <img src="images/0.png" width="45%" >
+</div>
 
 ## 所以我花了两个小时做了一个简单的中文支持。
 
 本Mod行为和早期麦块一致，一整句话如果有Unicode字符例如CJK表中的字符，就会全采用自定义字体。
 
 ## 如何使用？   
-下载 Release 文件，把下载的AllumeriaChinese_v0.14.X.zip文件解压到游戏根目录就行了，
-也就是`res`、`Mods`两个文件夹，记得是和原文件合并替换，不是完全删除再放入。
+Release 文件下载地址： [点我下载汉化包](https://github.com/ExtCalamity/AllumeriaChinese/releases/tag/CN) ！  
+ - 把下载的 AllumeriaChinese_v0.14.X.zip 文件，解压到游戏根目录就行了，【如下图】  
+ - 也就是`res`、`Mods`两个文件夹，记得是和原文件合并替换，不是完全删除再放入。  
+ - 游戏根目录可通过 Steam 右键 游戏名 → 属性 → 浏览本地文件 打开
 
 ![Screenshot1](images/Use.png)
 
