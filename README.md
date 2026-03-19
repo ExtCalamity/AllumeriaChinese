@@ -14,7 +14,7 @@
 Release 文件下载地址： [点我下载汉化包](https://github.com/ExtCalamity/AllumeriaChinese/releases/tag/CN) ！  
  - 把下载的 AllumeriaChinese_v0.14.X.zip 文件，解压到游戏根目录就行了，【如下图】  
  - 也就是`res`、`Mods`两个文件夹，记得是和原文件合并替换，不是完全删除再放入。  
- - 游戏根目录可通过 Steam 右键 游戏名 → 属性 → 浏览本地文件 打开
+ - 游戏根目录可通过 Steam 右键 游戏名 → 管理 → 浏览本地文件 打开
 
 ![Screenshot1](images/Use.png)
 
