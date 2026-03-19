@@ -538,7 +538,6 @@ item.pebbles 圆石
 item.grassy_stone 长草的石头
 item.wallpaperable_wood 壁纸基材（木头）
 item.wallpaperable_stone 壁纸基材（石头）
-item.bed 床
 
 item_tag.can_place 可放置
 item_tag.can_consume 可消耗
@@ -612,7 +611,6 @@ settings.audio_header 视频
 settings.misc_header 杂项
 settings.assets_info 资源包
 settings.button_open_assets 打开资源包文件夹
-settings.camera_header 相机
 
 settings_category.camera 视角
 settings_category.video 显示
@@ -824,24 +822,3 @@ colour.mint 薄荷绿色
 colour.baby_blue 浅蓝色
 colour.lavender 薰衣草紫
 colour.pastel_pink 柔和粉色
-
-comfort.room_size.too_big 这不是一个封闭的空间。
-comfort.room_size.too_small 这个房间太小了。
-comfort.room_size.pass 房间的大小刚刚好。
-
-comfort.room_light.too_dark 这个区域太暗了。
-comfort.room_light.too_bright 这个区域太亮了。
-comfort.room_light.pass 这个区域光线充足。
-
-comfort.room_sunlight.too_dark 阳光不够充足。
-comfort.room_sunlight.too_bright 阳光太强了。
-comfort.room_sunlight.no_direct 没有直射阳光。
-comfort.room_sunlight.pass 阳光恰到好处。
-
-
-comfort.Horrified.as_player 你感到很厌恶。
-comfort.Inhospitable.as_player 你感到很露天。
-comfort.Uncomfortable.as_player 你感到不舒服。
-comfort.Acceptable.as_player 你感觉还不错。
-comfort.Comfortable.as_player 你感到很舒服。
-comfort.VeryComfortable.as_player 你感到很惬意。

@@ -1,0 +1,847 @@
+﻿item.copper_pickaxe Copper Pickaxe
+item.copper_sword Copper Sword
+item.copper_axe Copper Axe
+item.copper_ingot Copper Ingot
+item.iron_ingot Iron Ingot
+item.health_potion Health Potion
+item.empty Empty
+item.stone Stone
+item.unknown Unknown
+item.dirt Dirt
+item.grass Grass
+item.planks Planks
+item.water Old Water
+item.sand Sand
+item.lamp_white White Lamp
+item.lamp_blue Blue Lamp
+item.lava Old Lava
+item.log Oak Log
+item.leaves Leaves
+item.grass_tall Tall Grass
+item.workbench Workbench
+item.workbench.desc Can make more complex items
+item.worldBorder World Border
+item.worldBorder.desc If you were able to obtain this you are either cheating or my game is broken ):
+item.copper_ore Copper Ore
+item.copper_ore.desc Can be smelted into bars
+item.iron_ore Iron Ore
+item.iron_ore.desc Can be smelted into bars
+item.coal_ore Coal Ore
+item.furnace Furnace
+item.glowing_mushroom Glowing Mushroom
+item.torch Torch
+item.crate Crate
+item.stone_brick Stone Brick
+item.glass Glass
+item.stone_brick_small Small Stone Brick
+item.clay Clay
+item.clay_brick_small Clay Brick
+item.copper_plated_stone Copper Plated Stone
+item.iron_plated_stone Iron Plated Stone
+item.flint_pickaxe Flint Pickaxe
+item.flint_sword Flint Sword
+item.flint_axe Flint Axe
+item.core Core
+item.flint Flint
+item.iron_pickaxe Iron Pickaxe
+item.iron_sword Iron Sword
+item.iron_axe Iron Axe
+item.red_mushroom Red Mushroom
+item.allumerium_ore Allumerium Ore
+item.chest Chest
+item.silver_pickaxe Silver Pickaxe
+item.silver_sword Silver Sword
+item.silver_axe Silver Axe
+item.gold_pickaxe Gold Pickaxe
+item.gold_sword Gold Sword
+item.gold_axe Gold Axe
+item.silver_ingot Silver Ingot
+item.gold_ingot Gold Ingot
+item.sandstone Sandstone
+item.snow Snow
+item.ice Ice
+item.silver_ore Silver Ore
+item.gold_ore Gold Ore
+item.silver_plated_stone Silver Plated Stone
+item.gold_plated_stone Gold Plated Stone
+item.sandstone_brick Sandstone Brick
+item.snow_brick Snow Brick
+item.stone_block Stone Block
+item.lamp_red Red Lamp
+item.lamp_green Green Lamp
+item.flint_hammer Hammer
+item.flint_hammer.desc Can change the shape of blocks
+item.bagel Bagel
+item.everything_bagel Everything Bagel
+item.everything_bagel.desc One with everything.
+item.blueberry Blueberry
+item.birch_log Birch Log
+item.maple_log Maple Log
+item.maple_leaves Maple Leaves
+item.blueberry_bush Blueberry Bush
+item.door Door
+
+item.copper_helmet Copper Helmet
+item.iron_helmet Iron Helmet
+item.silver_helmet Silver Helmet
+item.gold_helmet Gold Helmet
+
+item.copper_chestplate Copper Chestplate
+item.iron_chestplate Iron Chestplate
+item.silver_chestplate Silver Chestplate
+item.gold_chestplate Gold Chestplate
+item.copper_greaves Copper Greaves
+item.iron_greaves Iron Greaves
+item.silver_greaves Silver Greaves
+item.gold_greaves Gold Greaves
+item.dynamite Dynamite
+item.dynamite.desc Great for playing catch
+item.daffodil Daffodil
+item.rose Rose
+item.dandelion Dandelion
+item.cobblestone Cobblestone
+item.potion_station Potion Station
+item.cooking_station Cooking Station
+item.ladder Ladder
+item.dynamite_block Dynamite Block
+item.dynamite_block.desc Would you like to explode!?
+item.cactus_sword Cactus Sword
+item.wood_bow Wood Bow
+item.slingshot Slingshot
+item.arrow Arrow
+item.rock Rock
+item.shuriken Shuriken
+item.dart Dart
+item.wand Wand
+item.wand.desc Used to select two points for commands.
+item.frozen_stone Frozen Stone
+item.grass_tall_snowy Snowy Grass
+item.grass_tall_dry Dry Grass
+item.dead_bush Dead Bush
+item.desert_bush Desert Bush
+item.agave Agave
+item.cactus_flower Cactus Flower
+item.cactus_small Small Cactus
+item.cactus Cactus
+item.maple_sapling Maple Sapling
+item.oak_sapling Oak Sapling
+item.birch_sapling Birch Sapling
+item.frost_algae Frost Algae
+item.slime_algae Slime Algae
+item.pine_leaves Pine Leaves
+item.forest_pickaxe Forest Pickaxe
+item.forest_pickaxe.desc Always dig straight down :)
+item.entwiner Entwiner
+item.entwiner.desc Magically entwines a trigger to a destination.
+item.heart_beet Heart Beet
+item.heart_beet.desc Increases max health by 1 Heart!
+item.iron_chest Iron Chest
+item.gold_chest Gold Chest
+item.dungeon_bricks Forest Dungeon Bricks
+item.dungeon_grate Forest Dungeon Grate
+item.dungeon_lamp Dungeon Lamp
+item.dungeon_lamp_blue Blue Dungeon Lamp
+item.dungeon_pressure_plate Dungeon Pressure Plate
+item.dungeon_door Dungeon Door
+item.pressure_plate Pressure Plate
+item.button Button
+item.splitter Splitter
+item.splitter.desc Splits a signal to adjacent blocks.
+item.pulser Pulser
+item.pulser.desc Extends an entwinement pulse.
+item.dart_trap Dart Trap
+item.dart_trap.desc Shoots poison darts.
+
+item.thorn_blade Thorn Blade
+item.regen_charm Stone of Regeneration
+item.regen_charm.desc Restores 1 HP every 4 seconds.
+item.jet_boots Jet Boots
+item.jet_boots.desc Jump in mid air to activate, has 1 second of fuel.
+item.spring_boots Spring Boots
+item.spring_boots.desc Increases jump height to 2m.
+item.paraglider Paraglider
+item.paraglider.desc Descend slowly from great heights.
+item.jumping_bean Jumping Bean
+item.jumping_bean.desc Increase melee damage by 20%, with a catch.
+item.sneakers Sneakers
+item.sneakers.desc Lets you sneak around.
+item.gecko_gloves Gecko Gloves
+item.gecko_gloves.desc Wearing these gloves lets you climb up surfaces.
+item.speed_boots Boots of Sprinting
+item.speed_boots.desc Wearing these gives you the energy to run around.
+item.oak_log Oak Log
+item.pine_log Pine Log
+item.pine_sapling Pine Sapling
+item.birch_planks Birch Planks
+item.maple_planks Maple Planks
+item.pine_planks Pine Planks
+item.framed_glass Framed Glass
+item.red_brick Red Brick
+item.lamp_cyan Cyan Lamp
+item.lamp_magenta Magenta Lamp
+item.lamp_yellow Yellow Lamp
+item.copper_bars Copper Bars
+item.iron_bars Iron Bars
+item.silver_bars Silver Bars
+item.gold_bars Gold Bars
+item.concrete Concrete
+item.concrete.desc 1.2x movement speed buff
+item.asphalt Asphalt
+item.asphalt.desc 1.2x movement speed buff
+item.thick_birch_log Thick Birch Log
+item.thick_maple_log Thick Maple Log
+item.thick_oak_log Thick Oak Log
+item.thick_pine_log Thick Pine Log
+item.trampoline Trampoline
+item.trampoline.desc Lets you bounce really high.
+item.launch_pad Launch Pad
+item.launch_pad.desc Launches you into the air.
+item.cloth Cloth
+item.cloth_light_grey Light Grey Cloth
+item.cloth_dark_grey Dark Grey Cloth
+item.cloth_black Black Cloth
+item.cloth_red Red Cloth
+item.cloth_orange Orange Cloth
+item.cloth_yellow Yellow Cloth
+item.cloth_lime Lime Cloth
+item.cloth_green Green Cloth
+item.cloth_cyan Cyan Cloth
+item.cloth_blue Blue Cloth
+item.cloth_dark_blue Dark Blue Cloth
+item.cloth_purple Purple Cloth
+item.cloth_pink Pink Cloth
+item.cloth_light_pink Light Pink Cloth
+item.cloth_brown Brown Cloth
+
+item.weak_health_potion Weak Health Potion
+item.weak_health_potion.desc Restores 10 HP
+item.poison_potion Potion of Poison
+item.poison_potion.desc Drinking is not recommended!
+item.speed_potion Potion of Speed
+item.regen_potion Potion of Regeneration
+item.regen_potion.desc Slowly recover hearts for 5 minutes.
+item.armour_potion Armoured Potion
+item.armour_potion.desc Increases your defence by 4 points for 5 minutes.
+item.respawn_potion Potion of Returning
+item.respawn_potion.desc Potion of Returning
+item.flight_potion Potion of Flight
+item.flight_potion.desc Allows you to do a short rocket boost for 1 minute.
+item.cure_cube Cube of Curing
+item.cure_cube.desc Equipping this makes you immune to poison.
+item.cotton_plant Cotton Plant
+item.cotton_plant.desc Can be planted, and harvested.
+item.decoration_station Decoration Station
+item.decoration_station.desc Used to craft decorative blocks.
+item.dungeon_spawner Dungeon Spawner
+item.copper_bow Copper Bow
+item.iron_bow Iron Bow
+item.silver_bow Silver Bow
+item.gold_bow Gold Bow
+item.copper_crossbow Copper Crossbow
+item.iron_crossbow Iron Crossbow
+item.silver_crossbow Silver Crossbow
+item.gold_crossbow Gold Crossbow
+item.reinforced_arrow Reinforced Arrow
+item.flaming_arrow Flaming Arrow
+item.explosive_arrow Explosive Arrow
+item.root_arrow Arrow Root
+item.rock_melon Rock Melon
+item.watermelon Watermelon
+item.brick Brick
+item.brick.desc To throw at things you dont like.
+item.throwable_torch Sticky Torch
+item.throwable_torch.desc Can be thrown to light up caves.
+item.squeaky_toy Squeaky Toy
+item.whoopee_cushion Whoopee Cushion
+item.air_horn Air Horn
+item.glow_worms Glow Worms
+item.heart_beet_block Heart Beet (Block)
+item.sandstone_brick_small Small Sandstone Bricks
+item.toy_crate Toy Crate
+item.sprinkler Sprinkler
+item.soil Dry Soil
+item.wet_soil Wet Soil
+item.arrow_root_seed Arrow Root Seeds
+item.bomb_berry_seed Bomb Berry Seeds
+item.rock_melon_seed Rock Melon Seeds
+item.watermelon_seed Watermelon Seeds
+item.frying_pan Frying Pan
+item.boomerang Boomerang
+item.throwable_glow_bean Glow Bean
+item.watering_can Watering Can
+item.watering_can.desc Always full, because magic.
+item.hoe Hoe
+item.tomato Tomato
+item.bread Bread
+item.wheat Wheat
+item.bomb_berry Bomb Berry
+item.bomb_berry.desc Warning: Do not eat in house.
+item.ominous_deer_skull Ominous Deer Skull
+item.oak_leaves Oak Leaves
+item.placed_glow_bean Glow Bean (Block)
+item.weapon_crate Weapon Crate
+item.forest_chest Forest Chest
+item.tomato_seed Tomato Seeds
+item.wheat_seed Wheat Seeds
+item.glow_bean_seed Glow Bean Seeds
+item.weeds Weeds
+item.spider_web Spider Web
+item.pizza_cutter Pizza Cutter
+item.crowbar Crowbar
+item.melon_slicer Melon Slicer
+item.forest_axe Forest Axe
+item.snowball_cannon Snowball Gun
+item.snowball Snowball
+item.forest_ingot Forest Ingot
+item.eightball Eight Ball
+item.dice Dice
+item.basketball Basketball
+item.bucket Bucket
+item.water_bucket Bucket (Water)
+item.lava_bucket Bucket (Lava)
+item.sponge Sponge
+item.lava_sponge Lava Sponge
+item.forest_blessing Blessing of the Forest
+item.forest_blessing.desc Grants an extra 2 seconds of stamina.
+item.minecart Minecart
+item.minecart.desc Place on a rail to ride.
+item.underground_bush Undergrowth Bush
+item.undergrowth_rock Undergrowth Rock
+item.forest_flower Flower of the Forest
+item.lava_lily Lava Lily
+item.bubble_glass Bubble Glass
+item.undergrowth_crate Undergrowth Crate
+item.spike_trap Spike Trap
+item.dynamite_trap Dynamite Trap
+item.basket_hoop Basketball Hoop
+item.rail Rail
+item.painting_child Painting Metadata Item
+item.painting_melon Painting (Melon)
+item.painting_melon.desc A still life ..or self portrait.
+item.painting_triangle Painting (Triangle)
+item.painting_triangle.desc The fundamental building block for life.
+item.painting_stars Painting (Stars)
+item.painting_pipes Painting (Pipes)
+item.painting_cloud Painting (The Pink Cloud)
+item.painting_waves Painting (Waves)
+item.painting_biome Painting (Biome)
+item.painting_deer Painting (Deer)
+item.spawn_pointer Spawn Pointer
+item.spawn_pointer.desc Right click to set spawn.
+item.forest_helmet Forest Helmet
+item.forest_chestplate Forest Chestplate
+item.forest_greaves Forest Greaves
+item.skull_fragment Skull Fragment
+
+item.cobalt_pickaxe Cobalt Pickaxe
+item.cobalt_sword Cobalt Sword
+item.arctic_blade Arctic Blade
+item.big_sword Big Sword
+item.baguette Baguette
+item.frosted_boomerang Frosted Boomerang
+item.cobalt_spear Cobalt Spear
+item.cobalt_axe Cobalt Axe
+item.cobalt_helmet Cobalt Helmet
+item.cobalt_chestplate Cobalt Chestplate
+item.cobalt_greaves Cobalt Greaves
+item.cobalt_bow Cobalt Bow
+item.cobalt_crossbow Cobalt Crossbow
+item.snowball_splitter Snowball Splitter
+item.flamethrower Flamethrower
+item.fart_gun Fart Gun
+item.cobalt_ingot Cobalt Ingot
+item.copper_coin Copper Token
+item.silver_coin Silver Token
+item.gold_coin Gold Token
+item.allumerium_coin Allumerium Token
+item.mining_potion Mining Potion
+item.mint Mint
+item.red_meat Red Meat
+item.steak Steak
+item.red_mushroom_item Red Mushroom
+item.glowing_mushroom_item Glowing Mushroom
+item.magnet Magnet
+item.magnet.desc Attracts items from 4 meters away.
+item.scuba_helmet Scuba Helmet
+item.scuba_helmet.desc Allows breathing underwater.
+item.curse_of_core Curse of the Core
+item.curse_of_core.desc May cause pain and suffering.
+item.cosmic_radiation Cosmic Radiation
+item.cosmic_radiation.desc May cause bitflips.
+item.paint_roller Paint Roller
+item.paint_roller_earthy Paint Roller (Earthy Palette)
+item.paint_roller_pastel Paint Roller (Pastel Palette)
+item.wallpaper Wallpaper
+item.wallpaper.desc Can only be applied to Drywall.
+item.permafrost Permafrost
+item.cobalt_ore Cobalt Ore
+item.amethyst_ore Amethyst
+item.sapphire_ore Sapphire
+item.diamond_ore Diamond
+item.cobalt_plated_stone Cobalt Plated Stone
+item.alpha_shop Alpha Shop
+item.alpha_shop.desc (Will be removed when NPC's are added)
+item.white_torch White Torch
+item.ice_crate Ice Crate
+item.ice_chest Ice Chest
+item.table Table
+item.chair Chair
+item.basic_lamp Lamp
+item.snow_dungeon_bricks Snow Dungeon Bricks
+item.snow_dungeon_lamp Snow Dungeon Lamp
+item.pressure_plate_small Small Pressure Plate
+item.icycle Icicle
+item.switch Switch
+item.cobalt_bars Cobalt Bars
+item.drywall Drywall
+item.cotton_candy Cotton Candy
+item.amethyst_block Amethyst Block
+item.sapphire_block Sapphire Block
+item.diamond_block Diamond Block
+item.mint_seed Mint Seeds
+item.painting_blue Painting (Blue)
+item.painting_city Painting (City)
+item.painting_desolate Painting (Desolate)
+item.painting_figure Painting (Figure)
+item.painting_bird Painting (Bird)
+item.painting_undergrowth Painting (Undergrowth)
+item.structure_save Structure Save
+item.structure_load Structure Load
+item.structure_latch Structure Latch
+item.structure_marker Structure Marker
+item.structure_noreplace Structure No-Replace
+item.fluid.empty Empty Fluid
+item.fluid.water Water
+item.fluid.lava Lava
+item.raygun_death Raygun of Instant Death
+item.ice_torch Ice Torch
+item.arcade_carpet Arcade Carpet
+item.painting_snowman Painting (Snowman)
+item.big_snowball Big Snowball
+item.big_snowball.desc Do you want to build a snowman?
+item.snow_boss_base Snow Boss Base
+item.evil_tophat Evil Tophat
+item.evil_tophat.desc May create life.
+item.blank_block Blank Block
+item.grid_block Grid Block
+
+item.carving_knife Carving Knife
+item.carving_knife.desc Used to carve pumpkins. 
+item.spawn_fuzzy Spawn Fuzzy
+item.spawn_fuzzy_green Spawn Forest Fuzzy
+item.spawn_fuzzy_ice Spawn Ice Fuzzy
+item.spawn_hog Spawn Hog
+item.spawn_skeleton Spawn Skeleton
+item.spawn_wizard Spawn Wizard
+item.spawn_wizard_ice Spawn Ice Wizard
+item.spawn_mushroomer Spawn Mushroomer
+item.spawn_nightflyer Spawn Nightflyer
+item.spawn_snowman Spawn Snowman
+item.spawn_stone_golem Spawn Stone Golem
+item.spawn_yeti Spawn Yeti
+item.spawn_zombie Spawn Zombie
+item.spawn_pukeko Spawn Pukeko
+item.poo_gem Poo Gem
+item.lush_grass Lush Grass
+item.dry_grass Autumn Grass
+item.grass_tall_autumn Tall Autumn Grass
+item.grass_tall_lush Tall Lush Grass
+item.terracotta_tiles Terracotta Tiles
+item.ritual_torch Ritual Torch
+item.spawner_block Monster Spawner
+item.sign Sign
+item.glass_sign Glass Sign
+item.screen_sign Screen Sign
+item.invisible_sign Invisible Sign
+item.carved_pumpkin Pumpkin
+item.pumpkin_seed Pumpkin Seed
+
+item.basic_rod Basic Rod
+item.basic_rod.desc Used to catch fish!
+item.sturdy_rod Sturdy Rod 
+item.sturdy_rod.desc Can reel in trickier fish.
+item.obsidian_rod Obsidian Rod
+item.obsidian_rod.desc Fish fear me.
+item.water_walking_potion Water Walking Potion
+item.water_walking_potion.desc Lets you walk on water.
+item.crate_potion Crate Potion
+item.crate_potion.desc Increases the chances of fishing up a crate.
+item.fish_fillet Fish Fillet
+item.gormet_fish_fillet Gourmet Fish Fillet
+item.gormet_fish_fillet.desc Yummy!
+item.worm Worm
+item.worm.desc Used as bait to attract rarer fish.
+item.bug_bait Bug Bait
+item.bug_bait.desc Used as bait to attract rarer fish.
+item.rage_bait Rage Bait
+item.rage_bait.desc Attracts rarer fish but makes them angier.
+item.magnetic_bait Magnetic Bait
+item.magnetic_bait.desc Increases the odds of fishing up a crate.
+item.fish_catfish Catfish
+item.fish_walleye Walleye
+item.fish_carp Carp
+item.fish_tuna Tuna
+item.fish_salmon Salmon
+item.fish_murray_cod Murray Cod
+item.fish_herring Herring
+item.fish_minnow Minnow
+item.fish_lanternfish Lanternfish
+item.fish_crystalfin Crystalfin
+item.fish_fangtooth Fangtooth
+item.fish_blobfish Blobfish
+item.fish_nautilus Nautilus
+item.fish_smoulderfish Smolderfish
+item.fish_obsidieel Obsidieel
+item.fish_stonefish Stonefish
+item.fish_rainbow_trout Rainbow Trout
+item.packed_dirt Packed Dirt
+item.seaweed Seaweed
+item.lilypad Lilypad
+item.elevator Elevator
+item.elevator.desc Jump or sneak to go up and down.
+
+item.logic_wire Logic Wire
+item.logic_gate Logic Gate
+item.logic_repeater Logic Repeater
+item.logic_not Logic NOT
+item.logic_and Logic AND
+item.logic_xor Logic XOR
+item.logic_toggle Logic Toggle
+item.logic_memory Logic Memory
+item.logic_pixel Logic Pixel
+item.painting_wreath Painting (Wreath)
+
+item.forest_hammer Forest Hammer
+item.forest_hammer.desc Can shape stronger blocks.
+item.door_locker Door Locker
+item.door_locker.desc Locks Doors
+item.forest_key Forest Key
+item.forest_key.desc Unlocks Forest Doors
+item.iron_key Iron Key
+item.iron_key.desc Unlocks Regular Doors
+item.jelly_spoon Jelly Spoon
+item.jelly_spoon.desc Allows you to phase through Forest Jelly.
+item.spoon_fragment Spoon Fragment
+item.spoon_fragment.desc Can be combined to make something useful.
+item.dungeon_bricks_unstable Unstable Forest Dungeon Bricks
+item.dungeon_bricks_unstable.desc Crumbles when walked on.
+item.forest_jelly Forest Jelly
+item.forest_jelly.desc Sometimes solid, sometimes not.
+item.bone_club Bone Club
+item.boimp_potion Boimp Potion
+item.hanging_vines Hanging Vines
+item.hanging_flowers Hanging Flowers
+item.myosotis Myosotis
+item.wallpaper_wood Wood Siding
+item.wallpaper_stone Stone Siding
+item.pebbles Pebbles
+item.grassy_stone Grassy Stone
+item.wallpaperable_wood Wallpaper Base (Wood)
+item.wallpaperable_stone Wallpaper Base (Stone)
+item.bed Bed
+
+item_tag.can_place Placeable
+item_tag.can_consume Consumable
+item_tag.axe_power Axe
+item_tag.pickaxe_power Pickaxe
+item_tag.swing_speed Cooldown
+item_tag.hammer Hammer
+item_tag.cant_mine Can't Mine
+item_tag.restores_health Restores
+item_tag.melee_damage Melee
+item_tag.defence Defence
+item_tag.required_ammo Required Ammo
+item_tag.ammo Ammo
+item_tag.ranged_damage Ranged
+item_tag.trinket Trinket
+item_tag.can_block Can Block
+item_tag.knockback Knockback
+item_tag.demo_locked Locked in Demo
+
+settings.field_of_view Field of View
+settings.max_fps Maximum FPS
+settings.render_distance Render Distance
+settings.mouse_sensitivity Mouse Sensitivity
+settings.master_volume Master Volume
+settings.max_mesh_threads Maximum Mesher Threads
+settings.max_mesh_uploads Maximum Mesh Uploads (Per Frame)
+settings.show_control_hints Show Control Hints
+settings.auto_scale_ui Auto Scale UI
+settings.manual_ui_scale Manual UI Scale
+settings.world_volume World Volume
+settings.music_volume Music Volume
+settings.ui_volume UI/Player Volume
+settings.ambient_volume Ambient Volume
+settings.autosave_interval Autosave Interval (In Minutes)
+settings.autosave_enabled Autosaving
+settings.autosave_indicator Autosave Indicator
+settings.panicsave_enabled Create Recovery Save on Crash
+settings.view_bobbing View Bobbing
+settings.screen_shake Screen Shake
+settings.allow_noclip Allow Noclip
+settings.allow_infinite_item Infinite Items
+settings.allow_creative_menu Allow Creative Menu
+settings.allow_godmode God Mode
+settings.mob_spawning Monster Spawning
+settings.current_language Current Language
+settings.language_info Please restart to fully apply language choice.
+settings.cave_culling Cave Culling
+settings.header_basic Basic
+settings.vsync VSync
+settings.view_bobbing_intensity Bobbing Intensity
+settings.header_user_interface User Interface
+settings.header_advanced Advanced
+settings.pixel_scale Pixel Scale
+settings.dither_shader Dither Shader
+settings.invert_mouse Invert Mouse
+settings.leaf_sway Leaf Sway
+settings.dynamic_light Dynamic Light
+settings.disable_launch_message Disable Launch Message
+settings.show_day_count Show Day Count
+settings.infinite_stamina Infinite Stamina
+settings.edit_adventure_blocks Edit Adventure Blocks
+settings.disable_mobs Disable Monsters
+settings.header_controls Controls
+settings.header_keybinds Keybinds
+settings.slab_placement_mode Vertical Placement Mode
+settings.reset_shape_on_swap Reset Shape on Swap
+settings.world_settings World Permissions
+settings.player_settings Player Permissions
+settings.button_reset_keybinds Reset Keybinds
+settings.audio_header Audio
+settings.misc_header Misc
+settings.assets_info Asset Packs
+settings.button_open_assets Open Asset Pack Folder
+settings.camera_header Camera
+
+settings_category.camera Camera
+settings_category.video Video
+settings_category.audio Audio
+settings_category.controls Controls
+settings_category.misc Misc
+settings_category.keybinds Keybinds
+settings_category.cheats Cheats
+settings_category.language Language
+settings_category.assets Asset Packs
+
+permission.allow_noclip Allow Noclip
+permission.allow_infinite_item Infinite Items
+permission.allow_creative_menu Creative Menu
+permission.allow_godmode Godmode
+permission.instant_break Instant Break Blocks
+permission.infinite_stamina Infinite Stamina
+permission.edit_adventure_blocks Edit Adventure Blocks
+permission.enable_pvp Enable PVP
+
+control_hint.open_inventory Open Inventory
+control_hint.close_inventory Close Inventory
+control_hint.close_menu Close Menu
+control_hint.split_stack Split Stack
+control_hint.take_stack Take Stack
+control_hint.drop_one Drop One
+control_hint.drop_stack Drop Stack
+control_hint.craft_one Craft One
+control_hint.toggle_creative Toggle Creative
+control_hint.use Use
+control_hint.use_item Use Item
+control_hint.place_item Place Item
+control_hint.punch Punch
+control_hint.unequip Equip
+control_hint.equip Unequip
+control_hint.change_shape Change Shape
+control_hint.show_recipes Show Recipes
+
+keybind.move_forward Move Forward
+keybind.move_backward Move Backward
+keybind.move_left Move Left
+keybind.move_right Move Right
+keybind.fly_down Fly Down
+keybind.fly_up Fly Up
+keybind.jump Jump
+keybind.noclip Noclip
+keybind.place Place / Use
+keybind.punch Punch
+keybind.place_modifier Place Modifier
+keybind.open_inventory Open Inventory
+keybind.toggle_creative_menu Toggle Creative Menu
+keybind.drop_item Drop Item
+keybind.drop_modifier Drop Item Modifier
+keybind.pause Pause
+keybind.ui_confirm UI Confirm
+keybind.ui_secondary UI Secondary
+keybind.toggle_debug Toggle Debug Overlay
+keybind.toggle_profiler Toggle Profiler Overlay
+keybind.toggle_fullscreen Toggle Fullscreen
+keybind.ui_up UI Up
+keybind.ui_down UI Down
+keybind.ui_left UI Left
+keybind.ui_right UI Right
+keybind.hotbar1 Hotbar Slot 1
+keybind.hotbar2 Hotbar Slot 2
+keybind.hotbar3 Hotbar Slot 3
+keybind.hotbar4 Hotbar Slot 4
+keybind.hotbar5 Hotbar Slot 5
+keybind.hotbar6 Hotbar Slot 6
+keybind.hotbar7 Hotbar Slot 7
+keybind.hotbar8 Hotbar Slot 8
+keybind.hotbar9 Hotbar Slot 9
+keybind.hotbar10 Hotbar Slot 10
+keybind.hotbar11 Hotbar Slot 11
+keybind.hotbar12 Hotbar Slot 12
+keybind.open_chat Open Chat
+keybind.send_chat Send Message
+keybind.toggle_hud Toggle HUD
+keybind.take_screenshot Take Screenshot
+keybind.open_radial Open Radial Menu
+keybind.sneak Sneak (with trinket)
+keybind.sprint Sprint (with trinket)
+keybind.show_use Show Item Uses
+keybind.show_recipe Show Item Recipes
+keybind.pick_block Pick Block
+keybind.scroll_up Scroll Up
+keybind.scroll_down Scroll Down
+keybind.favourite_item Favourite Item
+keybind.fish_left Reel Fish Left
+keybind.fish_right Reel Fish Right
+
+ammo.arrow Arrow
+ammo.rock Rock
+ammo.bullet Bullet
+ammo.snowball Snowball
+
+effect.poison Poisoned
+effect.desc.poison Deals damage over time.
+effect.regen Regeneration
+effect.desc.regen You heal slowly over time.
+effect.wet Wet
+effect.desc.wet You are soaked in water.
+effect.slowfall Slow Falling
+effect.desc.slowfall You fall slower and don't take fall damage.
+effect.fire On Fire
+effect.desc.fire You are on fire!!!
+effect.healcooldown Recently Healed
+effect.desc.healcooldown You must wait a moment before you can heal again.
+effect.freezing Freezing
+effect.desc.freezing You are taking damage from the cold.
+effect.fast Fast
+effect.desc.fast You can move faster.
+effect.slow Slow
+effect.desc.slow You move slower.
+effect.anchored Anchored
+effect.desc.anchored You are anchored in place.
+effect.frozen Frozen
+effect.desc.frozen You are frozen, and can't do anything!
+effect.watched Watched
+effect.desc.watched ...
+effect.flight Flight
+effect.desc.flight Allows short bursts of flight
+effect.regen_potion Regeneration (Potion)
+effect.desc.regen_potion You are regenerating health slowly.
+effect.armoured Armoured
+effect.desc.armoured Your defence is increased by 4 points.
+
+effect.concussion Concussion
+effect.desc.concussion Ouch! Reduced movement speed.
+effect.snack Light Snack
+effect.desc.snack You had a snack, tiny boost to stats.
+effect.small_meal Small Meal
+effect.desc.small_meal You had a small meal, small boost to stats.
+effect.webbed Webbed
+effect.desc.webbed You are tangled in a spider web.
+
+effect.water_walking Water Walking
+effect.desc.water_walking You can walk on water.
+effect.crate_potion Crate Potion
+effect.desc.crate_potion Greater chance of fishing up a crate.
+
+effect.fast_mining Fast Mining
+effect.desc.fast_mining Increases mining speed.
+
+crafting_station.inventory By Hand
+crafting_station.work_bench Workbench
+crafting_station.furnace Furnace
+crafting_station.anvil Anvil
+crafting_station.decorations Decoration Station
+crafting_station.potions Potion Station
+
+loading.tip0 Enemies will only spawn on naturally generating blocks.
+loading.tip1 Press 'R' to view an item's recipes.
+loading.tip2 Hold 'R' while holding a block to change its shape.
+loading.tip3 Crops can mutate if you leave empty farmland.
+loading.tip4 Watch out for traps underground and in dungeons.
+loading.tip5 You can place rails upside down and on walls.
+loading.tip6 Torches don't prevent monster spawning underground.
+loading.tip7 Use a Respawn Pointer to set your spawn.
+loading.tip8 Use Returning Potions to return home if you are lost.
+loading.tip9 CTRL click items to send them to the trash slot.
+loading.tip10 You can automatically stack items to nearby chests.
+loading.tip11 You can sort your inventory.
+loading.tip12 Some weapons can block attacks from enemies.
+loading.tip13 Use a Decoration Station to make lots of cool items.
+loading.tip14 Make tools using flint rocks and a Workbench.
+loading.tip15 A strong pickaxe can break through to the other side.
+loading.tip16 Sometimes, it's a good idea to dig straight down.
+loading.tip17 If you find a bug, please report it on the Discord.
+loading.tip18 Have feedback? Join the discord or fill out the feedback form.
+loading.tip19 Tool durability isn't real, and can't hurt you.
+loading.tip20 If you let weeds grow in your garden, they may mutate..
+loading.tip21 Press F11 to toggle fullscreen.
+loading.tip22 Playing basketball during a boss fight can be beneficial.
+loading.tip23 Heart beets can be used to increase your maximum health.
+loading.tip24 Explosive arrows are dangerous in close combat.
+loading.tip25 Crops will only grow if you water them.
+
+colour.clear Clear
+colour.white White
+colour.grey Pale Grey
+colour.dark_grey Dark Grey
+colour.black Black
+colour.red Red
+colour.orange Orange
+colour.yellow Yellow
+colour.lime Lime
+colour.green Green
+colour.turqoise Turquoise
+colour.blue Blue
+colour.dark_blue Dark Blue
+colour.purple Purple
+colour.pink Pink
+colour.light_pink Light Pink
+colour.brown Brown
+colour.algae Algae
+colour.moss Moss
+colour.forest Forest
+colour.ocean Ocean
+colour.mud Mud
+colour.clay Clay
+colour.sand Sand
+colour.powder Powder
+colour.none None
+colour.orange_sherbet Orange Sherbet
+colour.lemon_yellow Lemon Yellow
+colour.pale_yellow Pale Yellow
+colour.mint Mint Green
+colour.baby_blue Baby Blue
+colour.lavender Lavender
+colour.pastel_pink Pastel Pink
+
+comfort.room_size.too_big This is not an enclosed space.
+comfort.room_size.too_small This room is too small.
+comfort.room_size.pass The room size is perfect.
+
+comfort.room_light.too_dark This area is too dark.
+comfort.room_light.too_bright This area is too bright.
+comfort.room_light.pass The area is well lit.
+
+comfort.room_sunlight.too_dark There isn't enough sunlight.
+comfort.room_sunlight.too_bright There is too much sunlight.
+comfort.room_sunlight.no_direct There is no direct sunlight.
+comfort.room_sunlight.pass There's a perfect amount of sunlight.
+
+
+comfort.Horrified.as_player You feel horrified.
+comfort.Inhospitable.as_player You feel very exposed.
+comfort.Uncomfortable.as_player You feel uncomfortable.
+comfort.Acceptable.as_player You feel okay.
+comfort.Comfortable.as_player You feel comfortable.
+comfort.VeryComfortable.as_player You feel very cozy.
